@@ -1,0 +1,144 @@
+                        <div class="tournaments-item category-  ">
+                            <div class="tournaments-title" id="tournament-5c9dfa7e99bab8590e249094" data-top-index="0">
+                                <div class="tournaments-title_a">
+                                    <div class="caption">
+                                        <img alt="FA Cup" class="flag_img" data-lazy-img="https://sportcdns.live/resized/50/50/category/c44fe11c093b8346573b52f47009d702cfc8813c86a1268975982cfb0ce1e96f.png" width="20" height="20" loading="lazy">
+                                        <a href="/football/tournaments/england/fa-cup" class="league-name">
+                                            <span class="country-name">England:</span>
+                                            FA Cup
+                                        </a>
+                                    </div>
+                                </div>
+                                <span class="match-count">3</span>
+                                <button class="toggle" type="button" name="toggle" aria-label="expand section">
+<img src="/build/777score/img/777score/icon/arrow-up-icon.svg" width="20" height="20" loading="lazy" alt>
+</button>
+                            </div>
+                            <div class="tournaments-match tournaments-game-item "
+                                id="game-odds-container-wrapper-65982f8e80dc85defe03b308">
+                                <a href="/football/matches/crystal-palace-vs-everton"
+                                    data-id="65982f8e80dc85defe03b308">
+                                    <span class="data">
+<span class="font-1rem">
+00:45
+</span>
+                                    </span>
+                                    <span class="status finished  ">
+Finished
+</span>
+                                    <div class="teams">
+                                        <div class="team win">
+                                            <div class="team-info teamHost">
+                                                <span class="name ellipsis">Everton</span>
+                                            </div>
+                                            <img alt="Everton" data-lazy-img="https://sportcdns.live/resized/50/50/team/265c3145a6abcaf21ba3742006e1cecff862726ad0aa5357fcfc64dca5fab600.png" width="20" height="20" loading="lazy">
+                                        </div>
+                                        <div class="score-wrapper">
+                                            <div class="main-score">
+                                                <span class="point scoreHost">
+1
+</span>
+                                                <span class="separator">&nbsp;-&nbsp;</span>
+                                                <span class="point scoreGuest">
+0
+</span>
+                                            </div>
+                                        </div>
+                                        <div class="team ">
+                                            <img alt="Crystal Palace" data-lazy-img="https://sportcdns.live/resized/50/50/team/b7eb7299fe9d8cfc52fedfe093dfcbad91b0572c6ba47345268a392aac19e573.png" width="20" height="20" loading="lazy">
+                                            <div class="team-info teamGuest">
+                                                <span class="name ellipsis">Crystal Palace</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="icons-wrapper">
+                                    </div>
+                                </a>
+                                <button data-slug="everton-fc-crystal-palace-2024-01-17" data-sport="football" name="favorites-games" class="star favorites-star-games  " aria-label="add to my games button"></button>
+                            </div>
+                            <div class="tournaments-match tournaments-game-item "
+                                id="game-odds-container-wrapper-659ac4a019aeb5676e0059e5">
+                                <a href="/football/matches/bristol-rovers-vs-norwich-city"
+                                    data-id="659ac4a019aeb5676e0059e5">
+                                    <span class="data">
+<span class="font-1rem">
+00:45
+</span>
+                                    </span>
+                                    <span class="status finished  ">
+Finished
+</span>
+                                    <div class="teams">
+                                        <div class="team ">
+                                            <div class="team-info teamHost">
+                                                <span class="name ellipsis">Bristol Rovers</span>
+                                            </div>
+                                            <img alt="Bristol Rovers" data-lazy-img="https://sportcdns.live/resized/50/50/team/d0e18d5ec13da2e7ced5b68357d203833ec96bdbf0cd6984667e099a39134c7f.png" width="20" height="20" loading="lazy">
+                                        </div>
+                                        <div class="score-wrapper">
+                                            <div class="main-score">
+                                                <span class="point scoreHost">
+1
+</span>
+                                                <span class="separator">&nbsp;-&nbsp;</span>
+                                                <span class="point scoreGuest">
+3
+</span>
+                                            </div>
+                                        </div>
+                                        <div class="team win">
+                                            <img alt="Norwich City" data-lazy-img="https://sportcdns.live/resized/50/50/team/129e2455ae777acb10c7918631d771c82443698c9c644180948677790e9983e2.png" width="20" height="20" loading="lazy">
+                                            <div class="team-info teamGuest">
+                                                <span class="name ellipsis">Norwich City</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="icons-wrapper">
+                                    </div>
+                                </a>
+                                <button data-slug="bristol-rovers-norwich-city-2024-01-15" data-sport="football" name="favorites-games" class="star favorites-star-games  " aria-label="add to my games button"></button>
+                            </div>
+                            <div class="tournaments-match tournaments-game-item "
+                                id="game-odds-container-wrapper-659c0dfa160a9736210016c9">
+                                <a href="/football/matches/blackpool-vs-nottingham-forest"
+                                    data-id="659c0dfa160a9736210016c9">
+                                    <span class="data">
+<span class="font-1rem">
+00:45
+</span>
+                                    </span>
+                                    <span class="status finished  ">
+FT (OT)
+</span>
+                                    <div class="teams">
+                                        <div class="team ">
+                                            <div class="team-info teamHost">
+                                                <span class="name ellipsis">Blackpool</span>
+                                            </div>
+                                            <img alt="Blackpool" data-lazy-img="https://sportcdns.live/resized/50/50/team/925c2f4f2963be1df7e96f56115c53a09c21b1a106177b4aa734530bdef1bdf6.png" width="20" height="20" loading="lazy">
+                                        </div>
+                                        <div class="score-wrapper">
+                                            <div class="main-score">
+                                                <span class="point scoreHost">
+2
+</span>
+                                                <span class="separator">&nbsp;-&nbsp;</span>
+                                                <span class="point scoreGuest">
+3
+</span>
+                                            </div>
+                                        </div>
+                                        <div class="team win">
+                                            <img alt="Nottingham Forest" data-lazy-img="https://sportcdns.live/resized/50/50/team/62de61a1fd141c6e3ecf912e198518355dfb7bff43b3e06f37cd01f09677d973.png" width="20" height="20" loading="lazy">
+                                            <div class="team-info teamGuest">
+                                                <span class="name ellipsis">Nottingham Forest</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="icons-wrapper">
+                                    </div>
+                                </a>
+                                <button data-slug="blackpool-nottingham-forest-2024-01-16" data-sport="football" name="favorites-games" class="star favorites-star-games  " aria-label="add to my games button"></button>
+                            </div>
+                        </div>
+           
